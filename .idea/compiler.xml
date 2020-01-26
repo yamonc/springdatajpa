@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springDataJpa2" />
         <module name="springDataJpa" />
+        <module name="springdatajpa3" />
+        <module name="springDataJpa2" />
       </profile>
     </annotationProcessing>
   </component>
